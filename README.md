@@ -35,7 +35,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - [Solution URL](https://github.com/cbrands/fm-order-summary-component)
-- [Live site URL](https://your-live-site-url.com)
+- [Live site URL](https://cbrands.github.io/fm-order-summary-component/)
 
 ## My process
 
